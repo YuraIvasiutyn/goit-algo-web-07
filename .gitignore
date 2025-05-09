@@ -51,6 +51,7 @@ coverage.xml
 .pytest_cache/
 cover/
 
+.idea
 # Translations
 *.mo
 *.pot
@@ -172,3 +173,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+/config/conf
